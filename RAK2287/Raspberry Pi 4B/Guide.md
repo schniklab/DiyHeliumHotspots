@@ -120,7 +120,9 @@ sudo raspi-config
     ```
 
 ## Set up Miner on Pi
-Source: https://developer.helium.com/blockchain/run-your-own-miner
+
+Helium dele this Script! Annybody have it?
+Source: https://developer.helium.com/blockchain/run-your-own-miner 
 
 + SSH into raspberry pi (if not already connected).
 ```console
